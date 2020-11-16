@@ -1,6 +1,6 @@
 # Основы разработки на C++: красный пояс
 
-![alt-текст](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/master/img.jpg)
+![alt-текст](https://github.com/Hitoku/basics-of-c-plus-plus-development-red-belt/blob/main/img.jpg)
 
 | Basic Info | Course 3 of 5 in the [Искусство разработки на современном C++ Specialization](https://www.coursera.org/learn/c-plus-plus-red)|
 | ------------- | ------------- |
